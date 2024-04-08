@@ -46,7 +46,25 @@ label {
     text-align: center;
 }
 
+/* unvisited link */
+a:link {
+  color: #ECF39E;
+}
 
+/* visited link */
+a:visited {
+  color: #90A955;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ECF39E;
+}
+
+/* selected link */
+a:active {
+  color: #90A955;
+}
 
 /*
  * -- PURE FORM STYLES --
