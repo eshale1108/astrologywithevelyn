@@ -10,7 +10,7 @@
  */
 body {
     line-height: 1.7em;
-    color: #7f8c8d;
+    color: #132A13;
     font-size: 13px;
 }
 
@@ -21,7 +21,7 @@ h4,
 h5,
 h6,
 label {
-    color: #34495e;
+    color: #31572C;
 }
 
 .pure-img-responsive {
@@ -71,7 +71,7 @@ label {
  * I want my pure-button elements to look a little different
  */
 .pure-button {
-    background-color: #1f8dd6;
+    background-color: #4F772D;
     color: white;
     padding: 0.5em 2em;
     border-radius: 5px;
@@ -79,7 +79,7 @@ label {
 
 a.pure-button-primary {
     background: white;
-    color: #1f8dd6;
+    color: #4F772D;
     border-radius: 5px;
     font-size: 120%;
 }
@@ -116,13 +116,13 @@ a.pure-button-primary {
 }
 
 .home-menu a {
-    color: #6FBEF3;
+    color: #90A955;
 }
 .home-menu li a:hover,
 .home-menu li a:focus {
     background: none;
     border: none;
-    color: #AECFE5;
+    color: #ECF39E;
 }
 
 
@@ -132,7 +132,7 @@ a.pure-button-primary {
  */
 
 .splash-container {
-    background: #1f8dd6;
+    background: #4F772D;
     z-index: 1;
     overflow: hidden;
     /* The following styles are required for the "scroll-over" effect */
@@ -208,7 +208,7 @@ a.pure-button-primary {
 
 /* This is the class used for the content sub-headers (<h3>) */
 .content-subhead {
-    color: #1f8dd6;
+    color: #4F772D;
 }
     .content-subhead i {
         margin-right: 7px;
