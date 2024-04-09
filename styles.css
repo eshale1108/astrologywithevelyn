@@ -29,7 +29,7 @@ label {
     height: auto;
 }
 
-@font-face {
+font-face {
   font-family: "Font Awesome 6 Free";
   font-style: normal;
   font-weight: 400;
