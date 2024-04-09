@@ -35,6 +35,7 @@ label {
   font-weight: 400;
   font-display: block;
   src: url(webfonts/fa-regular-400.woff2) format("woff2"), url(webfonts/fa-regular-400.ttf) format("truetype");
+    
 }
 
 
@@ -264,7 +265,8 @@ a.pure-button-primary {
     /* We increase the body font size */
     body {
         font-size: 16px;
-    }
+        font-family: "Font Awesome 6 Free", sans-serif;
+         }
 
     /* We can align the menu header to the left, but float the
     menu items to the right. */
