@@ -103,7 +103,7 @@ section h3 {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     width: 100%;
-    max-width: 300px;
+    max-width: 300px; /* Maximum width for larger screens */
     height: auto;
     transition: transform 0.3s ease;
 }
@@ -135,7 +135,7 @@ section h3 {
     }
 
     .image-gallery img {
-        max-width: 100%;
+        max-width: 90%; /* Adjust max-width for smaller screens */
     }
 }
 
@@ -154,5 +154,9 @@ section h3 {
 
     .intro-text p {
         font-size: 0.9rem;
+    }
+
+    .image-gallery img {
+        max-width: 100%; /* Ensure full width on very small screens */
     }
 }
